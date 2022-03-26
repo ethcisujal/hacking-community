@@ -3,3 +3,9 @@ emoji
 type option
 colours
 vibrant
+dark theme 
+video call 
+voice call
+payment method
+paytm
+paypal
